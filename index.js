@@ -38,7 +38,7 @@ prefix = '.'
 blocked = []
 
 const config = {
-        botname: 'BocchiBot', // Your Name Bot
+        botadı : ' , // Gündi Bot' 
         oname: 'NAZWA' // Your Name
 }
 
